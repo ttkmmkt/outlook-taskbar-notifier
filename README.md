@@ -27,7 +27,7 @@ Compared to Outlook's default desktop notifications you are less likely to miss 
 - Outlook desktop app needs to be installed
 
 ## Installation
-1. Download and extract the [zip](https://github.com/mdgrs-mei/outlook-taskbar-notifier/releases/latest/download/outlook-taskbar-notifier.zip) or clone this repository anywhere you like
+1. Download and extract the [zip](./download/outlook-taskbar-notifier.zip) or clone this repository anywhere you like
 1. Copy and edit [sample/settings.ps1](./sample/settings.ps1) (You have to edit `folderPath` at least. See [Settings](#Settings).)
 1. Run [`tools/create_shortcut.bat`](#toolscreate_shortcutbat), select your settings file and save the shortcut
 1. Run the shortcut
